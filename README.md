@@ -5,4 +5,9 @@ I'm available for contract work. Check out [my company website](https://caketop.
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tags &amp; stylish feeds](https://jordemort.dev/blog/tags-and-stylish-feeds/)
+- [LXC &amp; LXD: a different container story](https://jordemort.dev/blog/lwn-lxc-lxd-a-different-container-story/)
+- [Adding copy buttons to code blocks](https://jordemort.dev/blog/adding-copy-buttons-to-code-blocks/)
+- [Webmentions, pingbacks, and more](https://jordemort.dev/blog/webmentions-and-pingbacks/)
+- [Fixing leaky SVG style tags](https://jordemort.dev/blog/fixing-leaky-svg-style-tags/)
 <!-- BLOG-POST-LIST:END -->
