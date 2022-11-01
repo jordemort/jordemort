@@ -5,9 +5,9 @@ I'm available for contract work. Check out [my company website](https://caketop.
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsible negligence for self-hosted services](https://jordemort.dev/blog/responsible-negligence/)
 - [Identity management for WireGuard](https://jordemort.dev/blog/lwn-wireguard-identity-management/)
 - [Hacking back in to my 3D printer](https://jordemort.dev/blog/hacking-back-in-to-my-3d-printer/)
 - [Client-side search](https://jordemort.dev/blog/client-side-search/)
 - [A busy week makes for a quiet blog](https://jordemort.dev/blog/busy-week-quiet-blog/)
-- [Tags &amp; stylish feeds](https://jordemort.dev/blog/tags-and-stylish-feeds/)
 <!-- BLOG-POST-LIST:END -->
